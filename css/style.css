@@ -1,0 +1,49 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #6a5acd;
+  font-family: cursive;
+}
+
+.container {
+  max-width: 300px;
+  margin: 180px auto;
+  background-color: #fff;
+}
+
+.month-bg {
+  background-color: #ff4500;
+  color: #fff;
+}
+
+.month-bg h3 {
+  font-size: 30px;
+  text-align: center;
+  padding: 25px 25px 10px 25px;
+  font-weight: bold;
+}
+
+.day-year {
+  background-color: #fff;
+}
+
+.day {
+  color: #a9b1c7;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+}
+
+.number-day {
+  color: #000;
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+}
+
+.year {
+  color: #a9b1c7;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+}
